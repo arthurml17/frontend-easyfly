@@ -1,0 +1,9 @@
+@import './base.css';
+@import 'bootstrap';
+
+body{
+  background: #e2e2e9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
